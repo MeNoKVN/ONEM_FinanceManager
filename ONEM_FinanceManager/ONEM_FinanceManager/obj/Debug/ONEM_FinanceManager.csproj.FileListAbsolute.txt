@@ -1,0 +1,14 @@
+C:\Users\nikol\Desktop\MeNo_Projects\WinformsApps\ONEM_FinanceManager\ONEM_FinanceManager\ONEM_FinanceManager\bin\Debug\ONEM_FinanceManager.exe.config
+C:\Users\nikol\Desktop\MeNo_Projects\WinformsApps\ONEM_FinanceManager\ONEM_FinanceManager\ONEM_FinanceManager\bin\Debug\ONEM_FinanceManager.exe
+C:\Users\nikol\Desktop\MeNo_Projects\WinformsApps\ONEM_FinanceManager\ONEM_FinanceManager\ONEM_FinanceManager\bin\Debug\ONEM_FinanceManager.pdb
+C:\Users\nikol\Desktop\MeNo_Projects\WinformsApps\ONEM_FinanceManager\ONEM_FinanceManager\ONEM_FinanceManager\obj\Debug\ONEM_FinanceManager.csproj.AssemblyReference.cache
+C:\Users\nikol\Desktop\MeNo_Projects\WinformsApps\ONEM_FinanceManager\ONEM_FinanceManager\ONEM_FinanceManager\obj\Debug\ONEM_FinanceManager.csproj.SuggestedBindingRedirects.cache
+C:\Users\nikol\Desktop\MeNo_Projects\WinformsApps\ONEM_FinanceManager\ONEM_FinanceManager\ONEM_FinanceManager\obj\Debug\ONEM_FinanceManager.Form1.resources
+C:\Users\nikol\Desktop\MeNo_Projects\WinformsApps\ONEM_FinanceManager\ONEM_FinanceManager\ONEM_FinanceManager\obj\Debug\ONEM_FinanceManager.Properties.Resources.resources
+C:\Users\nikol\Desktop\MeNo_Projects\WinformsApps\ONEM_FinanceManager\ONEM_FinanceManager\ONEM_FinanceManager\obj\Debug\ONEM_FinanceManager.UserControl1.resources
+C:\Users\nikol\Desktop\MeNo_Projects\WinformsApps\ONEM_FinanceManager\ONEM_FinanceManager\ONEM_FinanceManager\obj\Debug\ONEM_FinanceManager.UserControl2.resources
+C:\Users\nikol\Desktop\MeNo_Projects\WinformsApps\ONEM_FinanceManager\ONEM_FinanceManager\ONEM_FinanceManager\obj\Debug\ONEM_FinanceManager.UserControl3.resources
+C:\Users\nikol\Desktop\MeNo_Projects\WinformsApps\ONEM_FinanceManager\ONEM_FinanceManager\ONEM_FinanceManager\obj\Debug\ONEM_FinanceManager.csproj.GenerateResource.cache
+C:\Users\nikol\Desktop\MeNo_Projects\WinformsApps\ONEM_FinanceManager\ONEM_FinanceManager\ONEM_FinanceManager\obj\Debug\ONEM_FinanceManager.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Desktop\MeNo_Projects\WinformsApps\ONEM_FinanceManager\ONEM_FinanceManager\ONEM_FinanceManager\obj\Debug\ONEM_FinanceManager.exe
+C:\Users\nikol\Desktop\MeNo_Projects\WinformsApps\ONEM_FinanceManager\ONEM_FinanceManager\ONEM_FinanceManager\obj\Debug\ONEM_FinanceManager.pdb
